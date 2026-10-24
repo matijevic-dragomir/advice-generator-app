@@ -61,8 +61,8 @@ function App() {
           Frontend Mentor
         </a>
         . Coded by{' '}
-        <a href="https://github.com/dragi-ns" className="underline">
-          dragi-ns
+        <a href="https://github.com/matijevic-dragomir" className="underline">
+          matijevic-dragomir
         </a>
         .
       </p>

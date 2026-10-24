@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/dragi-ns/advice-generator-app
+- Solution URL: https://github.com/matijevic-dragomir/advice-generator-app
 
-- Live Site URL: https://dragi-ns.github.io/advice-generator-app
+- Live Site URL: https://matijevic-dragomir.github.io/advice-generator-app
 
 ## My process
 
@@ -45,4 +45,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [dragi-ns](https://github.com/dragi-ns)
+- Website - [matijevic-dragomir](https://github.com/matijevic-dragomir)
